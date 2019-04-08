@@ -17,8 +17,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/zayhan/graph/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="506">
               <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+=======
+            <state relative-caret-position="198">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+>>>>>>> traversal_graph
               <folding>
                 <element signature="e#524#525#0" expanded="true" />
                 <element signature="e#575#576#0" expanded="true" />
@@ -64,7 +69,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -77,6 +81,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,6 +136,7 @@
       <updated>1554687649281</updated>
       <workItem from="1554687650574" duration="5354000" />
       <workItem from="1554693548483" duration="697000" />
+      <workItem from="1554696042711" duration="371000" />
     </task>
     <task id="LOCAL-00001" summary="Structure of Graph">
       <created>1554694305061</created>
@@ -143,12 +149,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="6097000" />
+=======
+    <option name="totallyTimeSpent" value="6422000" />
+>>>>>>> traversal_graph
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16544567" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.082417585" />
+>>>>>>> traversal_graph
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -208,8 +222,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zayhan/graph/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="506">
           <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+=======
+        <state relative-caret-position="198">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+>>>>>>> traversal_graph
           <folding>
             <element signature="e#524#525#0" expanded="true" />
             <element signature="e#575#576#0" expanded="true" />
